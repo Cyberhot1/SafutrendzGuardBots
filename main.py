@@ -143,7 +143,7 @@ def slippageInfo2(update,context):
 def websitelink2(update,context):
     update.message.reply_text("👉 Visit SaFuTrendz Website \n" + website)
 
-def announcementslink2(update,context):
+def announcementlink2(update,context):
     update.message.reply_text("🔊 🔊 🔊 🔊 🔊 🔊 🔊 🔊  \nHere is a link to our Announcement Channel: \n" + announcementlink)
 
 def taxInfo2(update,context):

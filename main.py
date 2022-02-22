@@ -21,7 +21,7 @@ twitter = "https://twitter.com/safu_trendz"
 socials = f"\n\n🕊 Twitter: {twitter}\n\n📗 Telegram Group: {telegramGP}\n\n🔊 Telegram Anncouncement: {telegramANS}"
 
 whitepaperInfo = "📃 Our WhitePaper is coming soon! \nStay Tuned!"
-announcementlink = "🗣 https://t.me/safu_trendzans"
+announcement = "🗣 https://t.me/safu_trendzans"
 contract = address2
 taxInfo = "8% BUY & SELL \n - 6% Marketing \n - 2% Reflections"
 slippageInfo = "🧾 8% to 12% Slippage"

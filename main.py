@@ -1,4 +1,7 @@
 import config
+import logging
+from telegram import ParseMode
+from telegram.ext import Updater, Filters, CommandHandler
 from telegram import *
 from telegram.ext import *
 import responses as R 

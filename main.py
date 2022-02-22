@@ -10,6 +10,7 @@ import requests
 #import json
 
 print("bot started...")
+CHAT_APPROVED = [-1001575007199]
 
 name = 'SaFuTrendz'
 symbol = 'SAFU'

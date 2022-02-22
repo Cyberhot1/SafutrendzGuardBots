@@ -144,7 +144,7 @@ def websitelink2(update,context):
     update.message.reply_text("👉 Visit SaFuTrendz Website \n" + website)
 
 def announcementlink2(update,context):
-    update.message.reply_text("🔊 🔊 🔊 🔊 🔊 🔊 🔊 🔊  \nHere is a link to our Announcement Channel: \n" + announcementlink)
+    update.message.reply_text("🔊 🔊 🔊 🔊 🔊 🔊 🔊 🔊  \nHere is a link to our Announcement Channel: \n" + announcement)
 
 def taxInfo2(update,context):
     update.message.reply_text(taxInfo)
